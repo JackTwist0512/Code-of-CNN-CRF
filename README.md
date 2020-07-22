@@ -1,1 +1,1 @@
-# Code-used-in-A-Multiscale-CNN-CRF-Framework-for-Environmental-Microorganism-Image-Segmentation-
+The file contains the codes used in the paper "A Multiscale CNN-CRF Framework for Environmental Microorganism Image Segmentation" published in BioMed Research International. The method used in CNN-CRF framework contains two parts: pixel-level segmentation and patch-level segmentation. In the pixel-level part, we propose mU-Net series, including mU-Net-B1, mU-Net-B2, and mU-Net-B3. In the patch-level part, the VGG-16 based transfer learning is applied. 
